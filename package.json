@@ -1,7 +1,7 @@
 {
-  "name": "supply-ai",
+  "name": "supplyai-assignement",
   "version": "0.0.173",
-  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/app-bar/SearchAppBar.js",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
